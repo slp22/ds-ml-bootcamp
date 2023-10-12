@@ -1,0 +1,4 @@
+Survey,Prevalence,Year,Smoked at least once past 30 days,Ever had a drink of alcohol,Physically active at least 60 minutes per day
+YRBS (Middle Scool),Prevalence,2018,0.9*     *Estimate should be interpreted with caution due to large Relative Standard Error,17.7,23.9
+YRBS (Middle Scool),Lower 95% CI,2018,0.5,13.8,22
+YRBS (Middle Scool),Upper 95% CI,2018,1.8,22.4,25.8
